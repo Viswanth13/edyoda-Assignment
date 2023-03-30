@@ -1,0 +1,16 @@
+.instructor-total-box {
+  padding: 20px;
+  width: 100vw;
+}
+.instructor-box {
+  box-shadow: 2px 2px 2px 2px grey;
+  padding: 20px;
+  text-align: center;
+}
+.instructor-image {
+  height: 400px;
+  width: 400px;
+}
+.link {
+  text-decoration: none;
+}

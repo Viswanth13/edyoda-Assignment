@@ -1,0 +1,14 @@
+.side-navbar {
+  width: 100px;
+  height: 100vh;
+  /* background-color: #0c2245; */
+  background-color: aliceblue;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.hr-el {
+  color: #ffffff;
+  height: 2px;
+  display: block;
+}

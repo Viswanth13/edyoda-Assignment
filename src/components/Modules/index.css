@@ -1,0 +1,118 @@
+.company-name-and-user-logo {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+.user-profile-logo1 {
+  background-color: aquamarine;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  padding: 10px;
+  margin-left: 10px;
+}
+.logo-hi-test {
+  display: flex;
+}
+.upper-navbar {
+  background-color: #0c2245;
+  padding: 20px;
+}
+.heading-program {
+  font-weight: 500;
+  margin-left: 50px;
+}
+.selected-course-and-icon {
+  display: flex;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+.icon-button {
+  align-self: center;
+  margin-left: 15px;
+  background-color: #0c2245;
+  border: none;
+  color: #ffffff;
+}
+.lower-website {
+  display: flex;
+}
+.module-types-box {
+  width: 250px;
+  background-color: rgb(192, 192, 247);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.modules-button {
+  background-color: transparent;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+.span-el {
+  margin-left: 10px;
+}
+.assignment-total-box {
+  width: 70%;
+  padding: 20px;
+}
+.assignment-head-box {
+  display: flex;
+  justify-content: space-between;
+}
+.head-right {
+  display: flex;
+}
+.tot-sco {
+  margin-left: 15px;
+}
+.assignment-box {
+  box-shadow: 2px 2px 2px 2px grey;
+  padding: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 70%;
+}
+.box-span {
+  margin-left: 10px;
+  color: rgb(113, 110, 110);
+}
+.topics-buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+.total-topics-box {
+  padding: 20px;
+}
+.topics-1,
+.topics-2,
+.topics-3,
+.topics-4 {
+  margin-right: 15px;
+}
+.topic-detailed-box {
+  box-shadow: 2px 2px 2px 2px grey;
+  padding: 10px;
+  margin-top: 20px;
+}
+.grey-text {
+  color: rgb(113, 110, 110);
+}
+.head-right-text {
+  text-align: end;
+}
+.box-head-text {
+  font-weight: 600;
+}
+.join-live-button {
+  border-radius: 20px;
+  background-color: rgb(168, 157, 157);
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+.active-tab-selected {
+  background-color: rgb(197, 126, 126);
+}
